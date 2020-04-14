@@ -1,13 +1,13 @@
 Este projeto esta sendo iniciado para faculdade!
 
 ### Grupo:
-### Jennifer Stang Oenning
-### Rafaella Ballerini Ribeiro Gomes
-### Jeferson Peter
-### Rafael Luan Gaedke Mendonsa
-### Matheus Modro Krueger
-### Hilário Uber Neto
-### Wanderley Júnior Alves Trindade
+Jennifer Stang Oenning
+Rafaella Ballerini Ribeiro Gomes
+Jeferson Peter
+Rafael Luan Gaedke Mendonça
+Matheus Modro Krueger
+Hilário Uber Neto
+Wanderley Júnior Alves Trindade
 
 ### Este projeto é feito para o GODOT
 
