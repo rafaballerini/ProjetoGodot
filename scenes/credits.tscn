@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://assets/img/fundo5.jpg" type="Texture" id=1]
+
+[node name="credits" type="Node2D"]
+
+[node name="bgcredits" type="Sprite" parent="."]
+position = Vector2( 184.208, 316.686 )
+scale = Vector2( 0.816918, 0.817288 )
+texture = ExtResource( 1 )

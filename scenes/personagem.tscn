@@ -1,0 +1,29 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://assets/img/speak-2.png" type="Texture" id=1]
+[ext_resource path="res://assets/img/speak.png" type="Texture" id=2]
+[ext_resource path="res://assets/img/speak-eyes.png" type="Texture" id=3]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 3 ), ExtResource( 1 ), ExtResource( 2 ) ],
+"loop": true,
+"name": "reception",
+"speed": 2.0
+}, {
+"frames": [  ],
+"loop": true,
+"name": "New Anim",
+"speed": 5.0
+} ]
+
+[node name="personagemrecertion" type="KinematicBody2D"]
+
+[node name="Sprite" type="Sprite" parent="."]
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+position = Vector2( 290.409, 324.197 )
+scale = Vector2( 0.424692, 0.457178 )
+frames = SubResource( 1 )
+animation = "reception"
+playing = true
