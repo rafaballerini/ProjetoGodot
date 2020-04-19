@@ -38,7 +38,7 @@ texture = ExtResource( 1 )
 position = Vector2( -91.5103, -71.1222 )
 
 [node name="btn_play" type="TouchScreenButton" parent="Canvas"]
-position = Vector2( 92.6908, 321.336 )
+position = Vector2( 91.5245, 321.336 )
 scale = Vector2( 0.244351, 0.256767 )
 normal = ExtResource( 3 )
 pressed = ExtResource( 5 )

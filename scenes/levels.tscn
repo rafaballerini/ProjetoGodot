@@ -39,7 +39,7 @@ scale = Vector2( 0.334778, 0.235614 )
 texture = ExtResource( 2 )
 
 [node name="level01" type="TouchScreenButton" parent="level canvas"]
-position = Vector2( 24.7295, 149.873 )
+position = Vector2( 28.94, 150.926 )
 scale = Vector2( 0.117158, 0.151158 )
 normal = ExtResource( 5 )
 
