@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/porta medieval aberta.png-7af230b6e313feef4e49936ded1eabb8.stex"
+path="res://.import/porta medieval aberta.png-d6edad93a4798f025bda3ff09e453dae.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/ElementsGodot/porta medieval aberta.png"
-dest_files=[ "res://.import/porta medieval aberta.png-7af230b6e313feef4e49936ded1eabb8.stex" ]
+source_file="res://test/porta medieval aberta.png"
+dest_files=[ "res://.import/porta medieval aberta.png-d6edad93a4798f025bda3ff09e453dae.stex" ]
 
 [params]
 

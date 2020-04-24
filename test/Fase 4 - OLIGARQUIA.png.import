@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fase 4 - OLIGARQUIA.png-2a91979752300b6407285f655a362897.stex"
+path="res://.import/Fase 4 - OLIGARQUIA.png-6a482eb33c66534cb0d1e19f86dedf71.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/ElementsGodot/Fase 4 - OLIGARQUIA.png"
-dest_files=[ "res://.import/Fase 4 - OLIGARQUIA.png-2a91979752300b6407285f655a362897.stex" ]
+source_file="res://test/Fase 4 - OLIGARQUIA.png"
+dest_files=[ "res://.import/Fase 4 - OLIGARQUIA.png-6a482eb33c66534cb0d1e19f86dedf71.stex" ]
 
 [params]
 

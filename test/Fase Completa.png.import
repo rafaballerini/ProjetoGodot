@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fase Completa.png-62aa7a97753400e33ac5d16828316b1b.stex"
+path="res://.import/Fase Completa.png-c65e2e02f154f629c734e13764ceca31.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/ElementsGodot/Fase Completa.png"
-dest_files=[ "res://.import/Fase Completa.png-62aa7a97753400e33ac5d16828316b1b.stex" ]
+source_file="res://test/Fase Completa.png"
+dest_files=[ "res://.import/Fase Completa.png-c65e2e02f154f629c734e13764ceca31.stex" ]
 
 [params]
 

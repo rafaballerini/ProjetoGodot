@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/elevador aberto.png-021aa939656e930971ce5cc0977a6f8d.stex"
+path="res://.import/elevador aberto.png-2d7f41f56048edf9942e84df04b78617.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/ElementsGodot/elevador aberto.png"
-dest_files=[ "res://.import/elevador aberto.png-021aa939656e930971ce5cc0977a6f8d.stex" ]
+source_file="res://test/elevador aberto.png"
+dest_files=[ "res://.import/elevador aberto.png-2d7f41f56048edf9942e84df04b78617.stex" ]
 
 [params]
 

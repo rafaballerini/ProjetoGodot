@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/botao.png-805806bc906db1ae3aa7e1a5144fc3c3.stex"
+path="res://.import/botao.png-ea6a484bf77d771da855ccb804c83b27.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/ElementsGodot/botao.png"
-dest_files=[ "res://.import/botao.png-805806bc906db1ae3aa7e1a5144fc3c3.stex" ]
+source_file="res://test/botao.png"
+dest_files=[ "res://.import/botao.png-ea6a484bf77d771da855ccb804c83b27.stex" ]
 
 [params]
 

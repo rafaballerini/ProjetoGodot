@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fase 1 - ANARQUIA.png-e0c4f392a7c7e3ce54ce5633847b1c8c.stex"
+path="res://.import/Fase 1 - ANARQUIA.png-ea65fced6130267c4f30ea5218bfc90f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/ElementsGodot/Fase 1 - ANARQUIA.png"
-dest_files=[ "res://.import/Fase 1 - ANARQUIA.png-e0c4f392a7c7e3ce54ce5633847b1c8c.stex" ]
+source_file="res://test/Fase 1 - ANARQUIA.png"
+dest_files=[ "res://.import/Fase 1 - ANARQUIA.png-ea65fced6130267c4f30ea5218bfc90f.stex" ]
 
 [params]
 
