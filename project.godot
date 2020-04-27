@@ -25,6 +25,10 @@ window/size/width=360
 window/size/height=640
 window/handheld/orientation="portrait"
 
+[input_devices]
+
+pointing/emulate_touch_from_mouse=true
+
 [rendering]
 
 environment/default_environment="res://default_env.tres"

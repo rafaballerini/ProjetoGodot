@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/porta medieval aberta.png-d6edad93a4798f025bda3ff09e453dae.stex"
+path="res://.import/volumebase.png-eed820e946b0229e24ec53fedbd5d711.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://test/porta medieval aberta.png"
-dest_files=[ "res://.import/porta medieval aberta.png-d6edad93a4798f025bda3ff09e453dae.stex" ]
+source_file="res://assets/img/volumebase.png"
+dest_files=[ "res://.import/volumebase.png-eed820e946b0229e24ec53fedbd5d711.stex" ]
 
 [params]
 

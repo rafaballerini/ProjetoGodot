@@ -8,7 +8,7 @@ extends Node2D
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
-	$music.play()
+	
 	pass # Replace with function body.
 
 
@@ -17,6 +17,6 @@ func _ready():
 #	pass
 
 
-func _on_btn_settings_pressed():
-	get_tree().change_scene("res://scenes/settings.tscn")
+func _on_comeback_pressed():
+	get_tree().change_scene("res://scenes/menu.tscn")
 	pass # Replace with function body.

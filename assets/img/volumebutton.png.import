@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fase Completa.png-c65e2e02f154f629c734e13764ceca31.stex"
+path="res://.import/volumebutton.png-f9344ceb43cd051ec669f9bbfd48ef1d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://test/Fase Completa.png"
-dest_files=[ "res://.import/Fase Completa.png-c65e2e02f154f629c734e13764ceca31.stex" ]
+source_file="res://assets/img/volumebutton.png"
+dest_files=[ "res://.import/volumebutton.png-f9344ceb43cd051ec669f9bbfd48ef1d.stex" ]
 
 [params]
 

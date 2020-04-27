@@ -2,11 +2,16 @@
 
 importer="texture"
 type="StreamTexture"
-valid=false
+path="res://.import/comeback(nopressed).png-0c6de27645d34248c5f8f22ab8df9fc3.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
-source_file="res://test/Fase 3 - MONARQUIA.jpg"
+source_file="res://assets/img/comeback(nopressed).png"
+dest_files=[ "res://.import/comeback(nopressed).png-0c6de27645d34248c5f8f22ab8df9fc3.stex" ]
+
 [params]
 
 compress/mode=0

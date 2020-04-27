@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/botao apertado.png-0ddac617b55aa8d8cc966a9c138e7d0b.stex"
+path="res://.import/comeback(pressed).png-966f8ab5f04816d7a2e49d937770fef0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://test/botao apertado.png"
-dest_files=[ "res://.import/botao apertado.png-0ddac617b55aa8d8cc966a9c138e7d0b.stex" ]
+source_file="res://assets/img/comeback(pressed).png"
+dest_files=[ "res://.import/comeback(pressed).png-966f8ab5f04816d7a2e49d937770fef0.stex" ]
 
 [params]
 

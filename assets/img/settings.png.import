@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/elevador.png-45e20eed937c2ca6ee69e60c1c5dfd79.stex"
+path="res://.import/settings.png-882ef8dad4887646c7504ea254735186.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://test/elevador.png"
-dest_files=[ "res://.import/elevador.png-45e20eed937c2ca6ee69e60c1c5dfd79.stex" ]
+source_file="res://assets/img/settings.png"
+dest_files=[ "res://.import/settings.png-882ef8dad4887646c7504ea254735186.stex" ]
 
 [params]
 
